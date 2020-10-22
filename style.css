@@ -1,0 +1,13 @@
+#datatable {
+  width: 100%;
+}
+
+.column-controls {
+  cursor: pointer;
+  float: right;
+  margin-top: 4px;
+}
+
+.column-controls .fa-sort {
+  opacity: 0.4;
+}
